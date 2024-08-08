@@ -10,4 +10,6 @@ public class Person {
     private String pR1;
     private String pR2;
     private String pR3;
+    private String g1;
+    private String g2;
 }
