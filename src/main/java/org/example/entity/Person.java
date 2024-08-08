@@ -13,4 +13,5 @@ public class Person {
     private String g1;
     private String g2;
     private String g3;
+    private String g4;
 }
