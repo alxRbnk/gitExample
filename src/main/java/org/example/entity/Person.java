@@ -6,4 +6,5 @@ public class Person {
     private String dev2;
     private String dev3;
     private String pR1;
+    private String pR2;
 }
